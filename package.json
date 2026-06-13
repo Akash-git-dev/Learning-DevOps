@@ -1,0 +1,21 @@
+{
+  "name": "learning-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-git-dev/Learning-DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akash-git-dev/Learning-DevOps/issues"
+  },
+  "homepage": "https://github.com/Akash-git-dev/Learning-DevOps#readme"
+}
